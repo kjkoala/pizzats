@@ -1,0 +1,47 @@
+{
+    "success": true,
+    "data": [
+        {
+            "title": "pizza",
+            "id": "23",
+            "icon": "/images/icons/menu/pizza-icon.svg",
+            "filters": [0,1,2]
+        },
+        {
+            "title": "burgers",
+            "id": "24",
+            "icon": "/images/icons/menu/burger-icon.svg",
+            "filters": [0,2]
+        },
+        {
+            "title": "salads",
+            "id": "25",
+            "icon": "/images/icons/menu/salad-icon.svg",
+            "filters": [1,2]
+        },
+        {
+            "title": "tacos",
+            "id": "26",
+            "icon": "/images/icons/menu/taco-icon.svg",
+            "filters": [2]
+        },
+        {
+            "title": "wraps",
+            "id": "27",
+            "icon": "/images/icons/menu/wrap-icon.svg",
+            "filters": [1]
+        },
+        {
+            "title": "fries",
+            "id": "28",
+            "icon": "/images/icons/menu/fries-icon.svg",
+            "filters": [0]
+        },
+        {
+            "title": "drinks",
+            "id": "29",
+            "icon": "/images/icons/menu/drink-icon.svg",
+            "filters": [2,0,1]
+        }
+    ]
+}

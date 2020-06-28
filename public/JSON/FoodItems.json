@@ -1,0 +1,67 @@
+{
+    "success": "true",
+    "data": [
+        {
+            "title": "Supreme Pizza",
+            "description": "Ricotta, sun dried tomatoes, garlic, mozzarella cheese, topped with lightly drizzled red sauce, pesto, and fresh basil",
+            "image": "",
+            "affiliation": [
+                {
+                    "title": "veggie",
+                    "icon": ""
+                },
+                {
+                    "title": "hot & spicy",
+                    "icon": ""
+                },
+                {
+                    "title": "meat",
+                    "icon": ""
+                }
+            ],
+            "sale": [
+                {
+                    "cost": 20,
+                    "params": {
+                        "size": 22,
+                        "metrics": "sm"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Vegge Lover",
+            "description": "Ricotta, sun dried tomatoes, garlic, mozzarella cheese, topped with lightly drizzled red sauce, pesto, and fresh basil",
+            "image": "",
+            "affiliation": [
+                1
+            ],
+            "sale": [
+                {
+                    "cost": 20,
+                    "params": {
+                        "size": 22,
+                        "metrics": "sm"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Primo Meat",
+            "description": "Ricotta, sun dried tomatoes, garlic, mozzarella cheese, topped with lightly drizzled red sauce, pesto, and fresh basil",
+            "image": "",
+            "affiliation": [
+                2
+            ],
+            "sale": [
+                {
+                    "cost": 20,
+                    "params": {
+                        "size": 22,
+                        "metrics": "sm"
+                    }
+                }
+            ]
+        }
+    ]
+}
